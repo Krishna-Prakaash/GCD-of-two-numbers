@@ -32,8 +32,8 @@ def gcd():
     print("GCD of two numbers is:",GCD)
 ~~~
 ## Output:
-![gcd of two number](SSD3.png))
-
+![gcd of two number](gcd.PNG))
+![Output1](SSD3.png)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
